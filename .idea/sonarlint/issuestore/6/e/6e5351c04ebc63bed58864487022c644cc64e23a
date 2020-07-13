@@ -1,0 +1,11 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Œêùì
+N	java:S106R"9Replace this use of System.out or System.err by a logger.(®¦‡ş
+R	java:S107"=Method has 12 parameters, which is greater than 7 authorized.(šâ×¹
+^
+java:S2095H"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(‹©Ö
+U
+java:S1118":Add a private constructor to hide the implicit public one.(›©Ï¥ùÿÿÿÿ
+P
+java:S1141G"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+k	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßü¾ùÿÿÿÿ

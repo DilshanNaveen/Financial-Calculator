@@ -1,0 +1,9 @@
+
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(®¦‡þ
+P
+java:S1118
+":Add a private constructor to hide the implicit public one.(¼öžÏ
+P
+java:S1141 "5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+^
+java:S2095!"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(ÇÌ±È

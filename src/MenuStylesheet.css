@@ -1,0 +1,24 @@
+.root{
+    -fx-background-color: #242424;
+}
+
+Label{
+    -fx-font-size: 60;
+    -fx-text-fill: white;
+}
+Button{
+    -fx-background-color: rgb(113,66,244);
+    -fx-border-color: black;
+    -fx-background-radius: 50;
+    -fx-border-radius: 50;
+    -fx-font-size: 30;
+    -fx-text-fill: white;
+}
+Button:hover{
+    -fx-font-weight: bold;
+    -fx-border-color: white;
+    -fx-border-width: 2px;
+}
+.help-style{
+    -fx-background-color: #FFB400;
+}

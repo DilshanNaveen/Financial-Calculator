@@ -1,0 +1,22 @@
+
+R	java:S107"=Method has 14 parameters, which is greater than 7 authorized.(ºÿ‹½
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(¾ùô²ùÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(®ž¸î
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(®Ÿß‰
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(˜µŽ¥
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(‡ÉëÈ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(—ðö‘þÿÿÿÿ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(á’‹—ùÿÿÿÿ
+f	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘˜ ”
+e
+java:S2095V"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(—Íýõ8Þãù©´.
+W
+java:S1141U"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Þãù©´.
+r	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™Ÿ«±þÿÿÿÿ8Þãù©´.
+m	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ¥ÿ…8Þãù©´.
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Þãù©´.
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(ŸßÚã8Þãù©´.
+U	java:S106\"9Replace this use of System.out or System.err by a logger.(¤»­è8Þãù©´.
+U	java:S106a"9Replace this use of System.out or System.err by a logger.(®¦‡þ8Þãù©´.

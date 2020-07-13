@@ -1,0 +1,11 @@
+
+Y
+java:S1444"7Make this "public static selectedTextField" field final(Ò—¨Ôùÿÿÿÿ8´€Ê´´.
+b
+java:S1192*"FDefine a constant instead of duplicating this literal "Arial" 5 times.(µ¾ R8´€Ê´´.
+
+java:S1104"]Make selectedTextField a static final constant or non-public and provide accessors if needed.(Ò—¨Ôùÿÿÿÿ8´€Ê´´.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(¡¤‹Âùÿÿÿÿ8´€Ê´´.
+J
+java:S1602¾",Remove useless curly braces around statement(¹“ú¦8´€Ê´´.

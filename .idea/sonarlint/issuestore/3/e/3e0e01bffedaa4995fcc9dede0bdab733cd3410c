@@ -1,0 +1,13 @@
+
+f	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İª˜Ç
+f	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ìÈç
+]
+java:S2095K"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(èÊ÷
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(¤»­è
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ÎÌÄÜøÿÿÿÿ
+Q	java:S107"=Method has 14 parameters, which is greater than 7 authorized.(ÑòéI
+k	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç²şÿÿÿÿ
+P
+java:S1141J"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+N	java:S106V"9Replace this use of System.out or System.err by a logger.(®¦‡ş
